@@ -1,0 +1,15 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: blue;
+}
+
+h1 {
+	margin: 0px;
+	padding: 0px;
+	position: relative
+	font-color: red;
+	left: 200px
+	top: 300px;
+}
+
